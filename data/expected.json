@@ -1,0 +1,20 @@
+{
+  "minimum": 70,
+  "students": [
+    {
+      "id": 3,
+      "student": "Casey Demo",
+      "grade": 95
+    },
+    {
+      "id": 1,
+      "student": "Alex Example",
+      "grade": 82
+    }
+  ],
+  "needsSupport": [
+    "Blair Sample"
+  ],
+  "averageGrade": 78.33,
+  "sampledRecords": 3
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sqlite-vscode-student",
+  "engine": "sqlite",
+  "slug": "sqlite",
+  "kind": "student",
+  "useCase": "student"
+}
